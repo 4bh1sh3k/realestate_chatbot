@@ -1,0 +1,52 @@
+[
+  {
+    "id": "prop_001",
+    "title": "Modern 3-Bedroom Family Townhouse",
+    "price": 450000,
+    "location": "Oakwood Suburbs, near Oakwood High School",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "description": "A beautiful, modern townhouse built in 2021. Features an open-concept kitchen, stainless steel appliances, a small private backyard, and a garage. Located within walking distance of Oakwood High School. Quiet, family-friendly neighborhood with low HOA fees.",
+    "tags": ["townhouse", "suburbs", "near schools", "family-friendly", "garage"]
+  },
+  {
+    "id": "prop_002",
+    "title": "Luxury 4-Bedroom Villa with Ocean View",
+    "price": 1250000,
+    "location": "Sunset Cliff, Coastal Heights",
+    "bedrooms": 4,
+    "bathrooms": 4.5,
+    "description": "Stunning luxury villa overlooking the ocean. Offers floor-to-ceiling glass windows, a private infinity pool, a gourmet chef's kitchen, and a master bedroom with an attached balcony facing the sunset. Located in an exclusive gated community.",
+    "tags": ["villa", "luxury", "pool", "ocean-view", "gated-community"]
+  },
+  {
+    "id": "prop_003",
+    "title": "Cozy 1-Bedroom Downtown Loft",
+    "price": 280000,
+    "location": "Downtown Metro District",
+    "bedrooms": 1,
+    "bathrooms": 1.0,
+    "description": "Chic industrial-style loft in the heart of the city. Features exposed brick walls, high ceilings, large windows letting in natural light, and modern concrete floors. Walkable distance to transit links, coffee shops, and restaurants. Ideal for young professionals.",
+    "tags": ["loft", "downtown", "apartment", "walkable", "modern"]
+  },
+  {
+    "id": "prop_004",
+    "title": "Suburban 2-Bedroom Home with Large Backyard",
+    "price": 380000,
+    "location": "Green Valley Valley Village",
+    "bedrooms": 2,
+    "bathrooms": 2.0,
+    "description": "Charming single-family cottage with a huge fenced backyard, perfect for pets or gardening. Includes a renovated kitchen, cozy living room with a brick fireplace, and original hardwood flooring. Situated in a quiet, green residential area.",
+    "tags": ["cottage", "suburbs", "backyard", "fireplace", "pets-allowed"]
+  },
+  {
+    "id": "prop_005",
+    "title": "Spacious 5-Bedroom Estate with Guest House",
+    "price": 1850000,
+    "location": "Pine Ridge Hills",
+    "bedrooms": 5,
+    "bathrooms": 5.0,
+    "description": "Grand estate situated on 2 acres of mature pine trees. Includes a massive primary suite, finished basement with home theater, and a detached 1-bedroom guest house. Top-tier privacy and state-of-the-art security systems.",
+    "tags": ["estate", "luxury", "privacy", "guest-house", "acreage"]
+  }
+]
