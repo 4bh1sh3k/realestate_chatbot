@@ -1,6 +1,6 @@
 #  Document RAG Chatbot (FastAPI + ChromaDB + Gemini)
 
-This is a full-stack **Retrieval-Augmented Generation (RAG)** chatbot that I built as a personal learning project to understand semantic search, vector databases, and Large Language Model (LLM) integrations.
+This is a **Retrieval-Augmented Generation (RAG)** chatbot involving semantic search, vector databases, and Large Language Model (LLM) integrations.
 
 The project is designed to ingest local text documents (such as properties, company FAQs, or service brochures), convert them into vector embeddings, store them in a local vector database, and provide a chatbot interface that answers user questions based strictly on the ingested data.
 
